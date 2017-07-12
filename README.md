@@ -18,10 +18,12 @@ Coding Dojang
 |41|Every Other Digit|[Python](./python/codingdojang/S41.py)|
 |69|피보나치 수열 구하기|[Python](./python/codingdojang/S69.py)|
 |73|문자열 압축하기|[Python](./python/codingdojang/S73.py)|
+|74|뒤쪽 0의 갯수 구하기|[Python](./python/codingdojang/S74.py)|
 |78|숫자 출력하기|[Python](./python/codingdojang/S78.py)|
 |80|3이 나타나는 시간을 전부 합하면?|[Python](./python/codingdojang/S80.py)|
 |90|CamelCase를 Pothole_case 로 바꾸기!|[Python](./python/codingdojang/S90.py)|
 |94|가성비 최대화|[Python](./python/codingdojang/S94.py)|
+|96|Printing OXs|[Python](./python/codingdojang/S96.py)|
 |105|1~1000에서 각 숫자의 개수 구하기|[Python](./python/codingdojang/S105.py)|
 |106|10~1000까지 각 숫자 분해하여 곱하기의 전체 합 구하기|[Python](./python/codingdojang/S106.py)|
 |128|완전수 구하기|[Python](./python/codingdojang/S128.py)|
