@@ -16,6 +16,7 @@ Coding Dojang
 |19|탭을 공백 문자로 바꾸기|[Python](./python/codingdojang/S19.py)|
 |22|다음 입사문제 중에서|[Python](./python/codingdojang/S22.py)|
 |41|Every Other Digit|[Python](./python/codingdojang/S41.py)|
+|49|Ugly Numbers|[Python](./python/codingdojang/S49.py)|
 |67|Simple Balanced Parentheses|[Python](./python/codingdojang/S67.py)|
 |69|피보나치 수열 구하기|[Python](./python/codingdojang/S69.py)|
 |73|문자열 압축하기|[Python](./python/codingdojang/S73.py)|
