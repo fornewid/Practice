@@ -14,9 +14,11 @@ Coding Dojang
 |7|구글 입사문제 중에서|[Python](./python/codingdojang/S7.py)|
 |14|리스트 회전|[Python](./python/codingdojang/S14.py)|
 |19|탭을 공백 문자로 바꾸기|[Python](./python/codingdojang/S19.py)|
+|20|게시판 페이징|[Python](./python/codingdojang/S20.py)|
 |22|다음 입사문제 중에서|[Python](./python/codingdojang/S22.py)|
 |24|사이냅소프트 면접문제|[Python](./python/codingdojang/S24.py)|
 |28|Special Sort|[Python](./python/codingdojang/S28.py)|
+|37|Jolly Jumpers|[Python](./python/codingdojang/S37.py)|
 |41|Every Other Digit|[Python](./python/codingdojang/S41.py)|
 |49|Ugly Numbers|[Python](./python/codingdojang/S49.py)|
 |53|Intervals|[Python](./python/codingdojang/S53.py)|
@@ -27,11 +29,13 @@ Coding Dojang
 |78|숫자 출력하기|[Python](./python/codingdojang/S78.py)|
 |80|3이 나타나는 시간을 전부 합하면?|[Python](./python/codingdojang/S80.py)|
 |90|CamelCase를 Pothole_case 로 바꾸기!|[Python](./python/codingdojang/S90.py)|
+|93|Duplicate Numbers|[Python](./python/codingdojang/S93.py)|
 |94|가성비 최대화|[Python](./python/codingdojang/S94.py)|
 |96|Printing OXs|[Python](./python/codingdojang/S96.py)|
 |102|가장 큰 수 만들기|[Python](./python/codingdojang/S102.py)|
 |104|소수의 개수 구해보기.|[Python](./python/codingdojang/S104.py)|
 |105|1~1000에서 각 숫자의 개수 구하기|[Python](./python/codingdojang/S105.py)|
 |106|10~1000까지 각 숫자 분해하여 곱하기의 전체 합 구하기|[Python](./python/codingdojang/S106.py)|
+|120|Dash Insert|[Python](./python/codingdojang/S120.py)|
 |128|완전수 구하기|[Python](./python/codingdojang/S128.py)|
 |134|Even Fibonacci numbers|[Python](./python/codingdojang/S134.py)|
