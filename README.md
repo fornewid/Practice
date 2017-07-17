@@ -26,6 +26,7 @@ Coding Dojang
 |69|피보나치 수열 구하기|[Python](./python/codingdojang/S69.py)|
 |73|문자열 압축하기|[Python](./python/codingdojang/S73.py)|
 |74|뒤쪽 0의 갯수 구하기|[Python](./python/codingdojang/S74.py)|
+|76|모스부호 해독|[Python](./python/codingdojang/S76.py)|
 |78|숫자 출력하기|[Python](./python/codingdojang/S78.py)|
 |80|3이 나타나는 시간을 전부 합하면?|[Python](./python/codingdojang/S80.py)|
 |90|CamelCase를 Pothole_case 로 바꾸기!|[Python](./python/codingdojang/S90.py)|
