@@ -12,6 +12,7 @@ Coding Dojang
 |1|넥슨 입사문제 중에서|[Java](./java/src/codingdojang/S1.java), [Python](./python/codingdojang/S1.py)|
 |2|Spiral Array|[Python](./python/codingdojang/S2.py)|
 |5|Multiples of 3 and 5|[Python](./python/codingdojang/S5.py)|
+|6|Eight Queens Problem|[Python](./python/codingdojang/S6.py)|
 |7|구글 입사문제 중에서|[Python](./python/codingdojang/S7.py)|
 |10|Four Boxes|[Python](./python/codingdojang/S10.py)|
 |14|리스트 회전|[Python](./python/codingdojang/S14.py)|
