@@ -21,6 +21,7 @@ Coding Dojang
 |22|다음 입사문제 중에서|[Python](./python/codingdojang/S22.py)|
 |24|사이냅소프트 면접문제|[Python](./python/codingdojang/S24.py)|
 |28|Special Sort|[Python](./python/codingdojang/S28.py)|
+|31|그 시간 사무실에 몇 명이 있었나?|[Python](./python/codingdojang/S31.py)|
 |37|Jolly Jumpers|[Python](./python/codingdojang/S37.py)|
 |41|Every Other Digit|[Python](./python/codingdojang/S41.py)|
 |49|Ugly Numbers|[Python](./python/codingdojang/S49.py)|
