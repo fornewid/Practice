@@ -33,6 +33,8 @@ Coding Dojang
 |76|모스부호 해독|[Python](./python/codingdojang/S76.py)|
 |78|숫자 출력하기|[Python](./python/codingdojang/S78.py)|
 |80|3이 나타나는 시간을 전부 합하면?|[Python](./python/codingdojang/S80.py)|
+|85|메모리공간을 동적으로 사용하여 데이터 관리하기|[Python](./python/codingdojang/S85.py)|
+|86|ASCII Art N|[Python](./python/codingdojang/S86.py)|
 |90|CamelCase를 Pothole_case 로 바꾸기!|[Python](./python/codingdojang/S90.py)|
 |93|Duplicate Numbers|[Python](./python/codingdojang/S93.py)|
 |94|가성비 최대화|[Python](./python/codingdojang/S94.py)|
