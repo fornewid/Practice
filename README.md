@@ -44,6 +44,7 @@ Coding Dojang
 |105|1~1000에서 각 숫자의 개수 구하기|[Python](./python/codingdojang/S105.py)|
 |106|10~1000까지 각 숫자 분해하여 곱하기의 전체 합 구하기|[Python](./python/codingdojang/S106.py)|
 |120|Dash Insert|[Python](./python/codingdojang/S120.py)|
+|124|LISP 계산기|[Python](./python/codingdojang/S124.py)|
 |128|완전수 구하기|[Python](./python/codingdojang/S128.py)|
 |133|Largest product in a grid|[Python](./python/codingdojang/S133.py)|
 |134|Even Fibonacci numbers|[Python](./python/codingdojang/S134.py)|
