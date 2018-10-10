@@ -1,8 +1,10 @@
-# IDEA
+# Project
 .idea
+/out
+/lib
 
 # Java
-java/java.iml
+
+# Kotlin
 
 # Python
-python/python.iml
