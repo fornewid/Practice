@@ -2,7 +2,7 @@ LeetCode
 =============
 | # | Title | Solution |
 |---| ----- | -------- |
-|1|Two Sum|[Java](./java/src/leetcode/S1.java), [Kotlin](./kotlin/src/leetcode/S1.java), [Python](./python/leetcode/S1.py)|
+|1|Two Sum|[Java](./java/src/leetcode/S1.java), [Kotlin](./kotlin/src/leetcode/S1.kt), [Python](./python/leetcode/S1.py)|
 
 
 Coding Dojang
